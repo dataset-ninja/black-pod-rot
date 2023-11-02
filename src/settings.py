@@ -68,7 +68,7 @@ REPOSITORY: Optional[Union[str, List[str], Dict[str, str]]] = None
 
 CITATION_URL: Optional[str] = None
 AUTHORS: Optional[List[str]] = ["Kenfack Anafack Alex"]
-AUTHORS_CONTACTS: Optional[List[str]] = ["https://github.com/bruno70821"]
+AUTHORS_CONTACTS: Optional[List[str]] = ["https://github.com/bruno70821", "https://www.linkedin.com/in/bruno-alex-kenfack-anafack-5a82b4151/"]
 
 ORGANIZATION_NAME: Optional[Union[str, List[str]]] = None
 ORGANIZATION_URL: Optional[Union[str, List[str]]] = None
